@@ -1,6 +1,6 @@
 ---
 title: Open Science for an Open Society
-subtitle1: Workshop at the 2016 Conference on Complex Systems (CSS)
+subtitle1: Workshop at the 2016 Conference on Complex Systems (CCS)
 subtitle2: 19-22 September 2016, Amsterdam
 layout: default
 ---
