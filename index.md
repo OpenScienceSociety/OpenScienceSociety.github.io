@@ -22,7 +22,7 @@ Organizers:
 - Floriana Gargiulo, University of Namur, Belgium
 - Matteo Gagliolo, Université Libre de Bruxelles, Belgium
 - Michael Szell, Northeastern, USA
-- Onur Varol, Indiana University
+- Onur Varol, Indiana University, USA
 
 
 ### More to Come
